@@ -11,6 +11,7 @@ import shutil
 
 OUTPUT_DIR = Path(config.OUTPUT_DIR)
 BUILD_DIR = Path(config.BUILD_DIR)
+NOTEBOOK_BUILD_DIR = Path(config.NOTEBOOK_BUILD_DIR)
 GITHUB_PAGES_REPO_DIR = Path(config.GITHUB_PAGES_REPO_DIR)
 
 # fmt: off

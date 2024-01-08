@@ -25,6 +25,7 @@ BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / config('DATA_DIR', default='./data/', cast=Path)
 OUTPUT_DIR = BASE_DIR / config('OUTPUT_DIR', default='./output/', cast=Path)
 BUILD_DIR = BASE_DIR / config('BUILD_DIR', default='./_build/', cast=Path)
+NOTEBOOK_BUILD_DIR = BASE_DIR / config('NOTEBOOK_BUILD_DIR', default='./src/_build/', cast=Path)
 GITHUB_PAGES_REPO_DIR = BASE_DIR / config('GITHUB_PAGES_REPO_DIR', default='../finm-32900.github.io/', cast=Path)
 WRDS_USERNAME = config("WRDS_USERNAME", default="")
 
