@@ -19,7 +19,7 @@ Course Syllabus: FINM 32900, Winter 2024
 - **Website:** Canvas will be used for grades and for publishing Zoom links only. Homework and notes will be posted on the course GitHub repo: https://github.com/finm-32900/finm-32900-data-science. Questions and other class-related discussions should be posted here as well.
 - **Textbook:** The text for the course will be published incrementally here: https://finm-32900.github.io/
 
-**NOTE:** Due to the holiday on January 15, a makeup class on Zoom with be held on Saturday, Jan 13.
+**NOTE:** Due to the holiday on January 15, a makeup class on Zoom with be held on Saturday, Jan 13 at 9 am CT. The Zoom link is in the Canvas calendar.
 
 
 ### Assignments
