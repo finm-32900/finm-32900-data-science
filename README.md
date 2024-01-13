@@ -48,9 +48,9 @@ Each week is it's own chapter and the agenda is listed in the first sub-section 
 
 ### HW Due Dates
 
-- [HW 0: Ungraded. Due ASAP, preferably before the first class](lectures/Week1/HW0.md)
-- [HW 1: Due Monday, Jan 15 at 3 pm](lectures/Week1/HW1.md)
-- [HW 2: Due Monday, Jan 22 at 3 pm](lectures/Week2/HW2.md)
+- [HW 0: Ungraded. Due ASAP, preferably before the first class](https://finm-32900.github.io/lectures/Week1/HW0.html)
+- [HW 1: Due Monday, Jan 15 at 3 pm](https://finm-32900.github.io/lectures/Week1/HW1.html)
+- [HW 2: Due Monday, Jan 22 at 3 pm](https://finm-32900.github.io/lectures/Week2/HW2.html)
     
 ## References
 
